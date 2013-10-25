@@ -1,5 +1,5 @@
 {
-  "name": "snap-svg",
+  "name": "meteor-snap-svg",
   "description": "The JavaScript SVG library for the modern web, packaged for Meteor.",
   "homepage": "https://github.com/10thfloor/meteor-snap-svg",
   "author": "Mackenzie Kieran",
