@@ -7,7 +7,6 @@ Homepage: [http://snapsvg.io/](http://snapsvg.io/)
 ---
 * on github: [https://github.com/adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg)
 * tutorial: [http://snapsvg.io/start/](http://snapsvg.io/start/)
- ---
 
 HowTo:
 
