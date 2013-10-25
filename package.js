@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Snap SVG package for Meteor!"
+  summary: "Snap SVG packaged for Meteor!"
 });
 
 Package.on_use(function (api) {
