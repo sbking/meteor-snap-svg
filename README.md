@@ -1,12 +1,16 @@
 meteor-snap-svg
 ===============
 
-Snap SVG Library packaged for Meteor
+The JavaScript SVG library for the modern web, packaged for Meteor.
 
 Homepage: [http://snapsvg.io/](http://snapsvg.io/)
+---
+* on github: [https://github.com/adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg)
+* tutorial: [http://snapsvg.io/start/](http://snapsvg.io/start/)
+ ---
 
-on github: [https://github.com/adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg)
- 
+HowTo:
+
     Template.whichever.rendered = function(){
     	// snap code here
     }

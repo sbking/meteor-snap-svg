@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Snap SVG packaged for Meteor!"
+  summary: "The JavaScript SVG library for the modern web. packaged for Meteor!"
 });
 
 Package.on_use(function (api) {
